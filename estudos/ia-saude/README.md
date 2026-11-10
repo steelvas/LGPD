@@ -18,7 +18,7 @@ assert "000.000.000-00" not in enviado
 
 2. **O comportamento:** o código remove o nome, mas deixa passar outro identificador. Executar corretamente a instrução não significa cumprir a promessa.
 
-3. **O fundamento:** o sandbox de IA da ANPD, testes de uma solução clínica mostraram que filtros não confirmavam a premissa inicial de anonimização. O relatório registrou erros clínicos e bibliográficos. São achados daquela solução, não de toda IA em saúde. [Relatório da ANPD](https://www.gov.br/anpd/pt-br/assuntos/projetos-acoes-iniciativas/sandbox/sandbox-relatorio-final-v1-0.pdf/@@display-file/file).
+3. **O fundamento:** no sandbox de IA da ANPD, testes de uma solução clínica mostraram que filtros não confirmavam a premissa inicial de anonimização. O relatório registrou erros clínicos e bibliográficos. São achados daquela solução, não de toda IA em saúde. [Relatório da ANPD](https://www.gov.br/anpd/pt-br/assuntos/projetos-acoes-iniciativas/sandbox/sandbox-relatorio-final-v1-0.pdf/@@display-file/file).
 
 4. **Dois controles diferentes:** pseudonimizar dados reduz riscos de identificação; não confirma se uma sugestão médica está correta. O médico precisa conseguir examiná-la e rejeitá-la. Isso não afasta os deveres da empresa pelas decisões de tratamento de dados que efetivamente toma.
 
